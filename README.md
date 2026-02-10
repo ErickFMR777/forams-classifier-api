@@ -1,5 +1,5 @@
 # forams-classifier-api
-Clasificador de 4 géneros de foraminíferos bentónicos (Ammonia, Bolivina, Cibicides, Elphidium)
+Clasificador automatizado de 4 géneros de foraminíferos bentónicos (Ammonia, Bolivina, Cibicides, Elphidium)
 
 ## Streamlit Cloud (inferencia directa)
 La app de Streamlit usa inferencia directa con el modelo (no requiere FastAPI).
